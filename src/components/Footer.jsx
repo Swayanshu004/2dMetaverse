@@ -30,9 +30,6 @@ function Footer() {
             <p>
               Keep exploring, keep learning, keep contributing
             </p>
-            <p className='text-sky-400 text-sm font-semibold bg-black py-3 px-5 rounded-lg mt-3 flex gap-3'>
-            <FaMapPin className='text-xl'/> All content provided here is solely for educational purposes and not intended for resale !
-            </p>
           </div>
         </div>
     </div>
